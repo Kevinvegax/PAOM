@@ -11820,6 +11820,11 @@ pre .code {
   height: 60px;
   color: white;
   font-size: 1.3em;
+  transition: .1s;
+}
+.works-galery p:hover{
+  height: 100%;
+  font-size: 1.6em;
 }
 
 
@@ -12013,7 +12018,14 @@ pre .code {
   }
 }
 .galeryText{
-  font-size: 1.5em;
+  font-size: 1.2em;
   text-align: center;
   margin-top: 20px;
+}
+.galery-tittle{
+  font-size: 2.5em;
+  text-align: center;
+}
+.gallery-container{
+  background-color: #F1F1F1;
 }
